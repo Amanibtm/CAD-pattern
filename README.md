@@ -1,4 +1,4 @@
-﻿# Pattern CAD - Clean Math Engine / # CAD Sewing Pattern Prototype
+﻿# Pattern CAD - Clean Math Engine / CAD Sewing Pattern Prototype
 
 Python-based prototype for generating and constraining sewing patterns using custom mathematical and geometric logic.
 
